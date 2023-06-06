@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WzorceProjektowe
+{
+    // Odbiorca komendy
+    class Receiver
+    {
+        public void Action()
+        {
+            Console.WriteLine("Wykonywanie komendy przy użyciu odbiorcy");
+        }
+    }
+}
